@@ -42,7 +42,7 @@ import com.facebook.android.Facebook.DialogListener;
 public class FbDialog extends Dialog {
 
     static final int FB_BLUE = 0xFF6D84B4;
-    static final float[] DIMENSIONS_DIFF_LANDSCAPE = {20, 60};
+    static final float[] DIMENSIONS_DIFF_LANDSCAPE = {200, 150};
     static final float[] DIMENSIONS_DIFF_PORTRAIT = {40, 60};
     static final FrameLayout.LayoutParams FILL =
         new FrameLayout.LayoutParams(ViewGroup.LayoutParams.FILL_PARENT,
